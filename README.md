@@ -1,4 +1,5 @@
-# Infosys-BizHacks-Hackathon-2023
+# Medsister Application
+This application was developed for the Infosys BizHacks Hackathon-2023 annual event held at Infosys Bangalore.
 
 A healthcare application that facilitates interaction between patients, hospitals, pharmaceutical companies, and medical professionals.
 This project is a modified version of open-source software developed by https://github.com/cbartram/ChatBot
